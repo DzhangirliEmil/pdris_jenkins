@@ -5,15 +5,15 @@ public class EasyMathClass {
         return a + b;
     }
 
-    static int multyply(int a, int b) {
+    public static int multyply(int a, int b) {
         return a*b;
     }
 
-    static int minus(int a, int b) {
+    public static int minus(int a, int b) {
         return a - b;
     }
 
-    static int square(int a) {
+    public static int square(int a) {
         return a*a;
     }
 }
